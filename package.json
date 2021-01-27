@@ -7,7 +7,7 @@
     "lib",
     "src"
   ],
-  "author": "Jean Regisser <jean.regisser@gmail.com> (https://github.com/jeanregisser)",
+  "author": "Girum https://github.com/Girum (Forked of Jean Regisser <jean.regisser@gmail.com> (https://github.com/jeanregisser))",
   "keywords": [
     "react-component",
     "react-native",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:jeanregisser/react-native-slider.git"
+    "url": "git@github.com:Girum/react-native-slider.git"
   },
   "dependencies": {
     "prop-types": "^15.5.6"
